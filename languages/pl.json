@@ -1,4 +1,5 @@
 {
+  "INTR_AFFIX": "Afiks",
   "DIALOGUE_SCHMIDT_ENDING_1": "Ah verdammt!",
   "DIALOGUE_SCHMIDT_ENDING_2_0_0": "Więc przyszedłeś?",
   "DIALOGUE_SCHMIDT_ENDING_2_0_1": "Świetnie, świetnie.",
@@ -82,7 +83,6 @@
   "ITEMNAME_ICECREAM_NIGHT_VISION": "Lody (Widzenie nocne)",
   "ITEMNAME_ICECREAM_STAMINA": "Lody (wytrzymałość)",
   "ITEMNAME_ICECREAM_TINY": "Lody (malutkie)",
-  "INTR_AFFIX": "Afiks",
   "INTR_REMOVE_GLUE": "Usuń klej",
   "ITEMNAME_GLUE": "Klej",
   "ITEMDESC_GLUE": "Umieszcza przedmioty na miejscu",
@@ -487,6 +487,7 @@
   "OPT_INV_Y": "Odwróć oś Y",
   "INTR_FILL_FOOD_BOWL": "Napełnij miskę %s",
   "ITEMNAME_FOOD_BOWL": "Miska na jedzenie",
+  "ITEMDESC_FOOD_BOWL": "Służy do karmienia Twojego zwierzaka",
   "ITEMNAME_WATER_BOWL": "Miska na wodę",
   "ITEMDESC_WATER_BOWL": "Służy do pojenia zwierzaka",
   "ITEMNAME_PET_BED": "Legowisko dla zwierząt",
