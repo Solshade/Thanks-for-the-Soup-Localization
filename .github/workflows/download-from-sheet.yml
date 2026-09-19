@@ -1,0 +1,43 @@
+name: Download localization from Google Sheet
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: localization-sheet-sync
+  cancel-in-progress: false
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r .github/scripts/requirements.txt
+
+      - name: Download sheet into JSON files
+        working-directory: .github/scripts
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
+          SHEET_NAME: ${{ vars.SHEET_NAME }}
+        run: python download_from_sheet.py
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: localization/sheet-sync
+          delete-branch: true
+          add-paths: languages/*.json
+          commit-message: Update localization from Google Sheet
+          title: Update localization from Google Sheet
+          body: Adds keys and values from the Google Sheet that were missing in the local JSON files. Existing values were not changed.
