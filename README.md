@@ -1,1 +1,1 @@
-# Thanks-for-the-Soup-Localization
+# Thanks for the Soup - Public Localization
