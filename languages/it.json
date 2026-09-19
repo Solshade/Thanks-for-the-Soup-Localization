@@ -1,4 +1,5 @@
 {
+  "INTR_AFFIX": "Apporre",
   "DIALOGUE_SCHMIDT_ENDING_1": "Ah verdammt!",
   "DIALOGUE_SCHMIDT_ENDING_2_0_0": "Allora sei venuto, eh?",
   "DIALOGUE_SCHMIDT_ENDING_2_0_1": "Intestino, intestino. Eccellente.",
@@ -82,7 +83,6 @@
   "ITEMNAME_ICECREAM_NIGHT_VISION": "Gelato (Visione notturna)",
   "ITEMNAME_ICECREAM_STAMINA": "Gelato (Resistenza)",
   "ITEMNAME_ICECREAM_TINY": "Gelato (piccolo)",
-  "INTR_AFFIX": "Apporre",
   "INTR_REMOVE_GLUE": "Rimuovere la colla",
   "ITEMNAME_GLUE": "Colla",
   "ITEMDESC_GLUE": "Fissa gli oggetti al loro posto",
@@ -487,6 +487,7 @@
   "OPT_INV_Y": "Inverti l'asse di visuale Y",
   "INTR_FILL_FOOD_BOWL": "Riempi la ciotola con %",
   "ITEMNAME_FOOD_BOWL": "Ciotola di cibo",
+  "ITEMDESC_FOOD_BOWL": "Da utilizzare per nutrire il tuo animale domestico",
   "ITEMNAME_WATER_BOWL": "Ciotola d'acqua",
   "ITEMDESC_WATER_BOWL": "Da usare per abbeverare il tuo animale domestico",
   "ITEMNAME_PET_BED": "Cuccia per animali domestici",
