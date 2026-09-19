@@ -1,4 +1,5 @@
 {
+  "INTR_AFFIX": "Affix",
   "DIALOGUE_SCHMIDT_ENDING_1": "Ah verdammt!",
   "DIALOGUE_SCHMIDT_ENDING_2_0_0": "Du bist also gekommen?",
   "DIALOGUE_SCHMIDT_ENDING_2_0_1": "Gut, gut. Ausgezeichnet.",
@@ -82,7 +83,6 @@
   "ITEMNAME_ICECREAM_NIGHT_VISION": "Eiscreme (Nachtsicht)",
   "ITEMNAME_ICECREAM_STAMINA": "Eiscreme (Ausdauer)",
   "ITEMNAME_ICECREAM_TINY": "Eiscreme (kleine Portion)",
-  "INTR_AFFIX": "Affix",
   "INTR_REMOVE_GLUE": "Kleber entfernen",
   "ITEMNAME_GLUE": "Kleber",
   "ITEMDESC_GLUE": "Befestigt Gegenstände an Ort und Stelle",
@@ -487,6 +487,7 @@
   "OPT_INV_Y": "Y-Achse umkehren",
   "INTR_FILL_FOOD_BOWL": "Füllen Sie die Schüssel mit %s",
   "ITEMNAME_FOOD_BOWL": "Futternapf",
+  "ITEMDESC_FOOD_BOWL": "Wird zur Fütterung Ihres Haustieres verwendet",
   "ITEMNAME_WATER_BOWL": "Wassernapf",
   "ITEMDESC_WATER_BOWL": "Wird zur Tränke Ihres Haustieres verwendet",
   "ITEMNAME_PET_BED": "Haustierbett",
