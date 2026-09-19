@@ -1,4 +1,5 @@
 {
+  "INTR_AFFIX": "Bevestigen",
   "DIALOGUE_SCHMIDT_ENDING_1": "Ah verdammt!",
   "DIALOGUE_SCHMIDT_ENDING_2_0_0": "Dus je bent gekomen, hè?",
   "DIALOGUE_SCHMIDT_ENDING_2_0_1": "Darm, darm. Uitstekend.",
@@ -82,7 +83,6 @@
   "ITEMNAME_ICECREAM_NIGHT_VISION": "IJs (Nachtzicht)",
   "ITEMNAME_ICECREAM_STAMINA": "IJs (Uithoudingsvermogen)",
   "ITEMNAME_ICECREAM_TINY": "IJsje (klein)",
-  "INTR_AFFIX": "Bevestigen",
   "INTR_REMOVE_GLUE": "Lijm verwijderen",
   "ITEMNAME_GLUE": "Lijm",
   "ITEMDESC_GLUE": "Bevestigt voorwerpen op hun plaats",
@@ -487,6 +487,7 @@
   "OPT_INV_Y": "Keer de Y-kijkas om",
   "INTR_FILL_FOOD_BOWL": "Vul de kom met %s",
   "ITEMNAME_FOOD_BOWL": "Eetkom",
+  "ITEMDESC_FOOD_BOWL": "Gebruik dit om uw huisdier te voeren",
   "ITEMNAME_WATER_BOWL": "Waterkom",
   "ITEMDESC_WATER_BOWL": "Gebruikt om uw huisdier water te geven",
   "ITEMNAME_PET_BED": "Huisdierbed",
