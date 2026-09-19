@@ -1,4 +1,5 @@
 {
+  "INTR_AFFIX": "부착",
   "DIALOGUE_SCHMIDT_ENDING_1": "Ah verdammt!",
   "DIALOGUE_SCHMIDT_ENDING_2_0_0": "그래서 왔구나?",
   "DIALOGUE_SCHMIDT_ENDING_2_0_1": "장, 장. 훌륭해.",
@@ -82,7 +83,6 @@
   "ITEMNAME_ICECREAM_NIGHT_VISION": "아이스크림 (야간 투시경)",
   "ITEMNAME_ICECREAM_STAMINA": "아이스크림 (체력)",
   "ITEMNAME_ICECREAM_TINY": "아이스크림 (작은 사이즈)",
-  "INTR_AFFIX": "부착",
   "INTR_REMOVE_GLUE": "접착제를 제거하세요",
   "ITEMNAME_GLUE": "아교",
   "ITEMDESC_GLUE": "물건을 제자리에 고정합니다",
@@ -487,6 +487,7 @@
   "OPT_INV_Y": "Y축 반전 보기",
   "INTR_FILL_FOOD_BOWL": "그릇에 %s를 채우세요",
   "ITEMNAME_FOOD_BOWL": "음식 그릇",
+  "ITEMDESC_FOOD_BOWL": "반려동물에게 먹이를 줄 때 사용합니다.",
   "ITEMNAME_WATER_BOWL": "물그릇",
   "ITEMDESC_WATER_BOWL": "반려동물에게 물을 줄 때 사용합니다.",
   "ITEMNAME_PET_BED": "애완동물 침대",
