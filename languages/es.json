@@ -1,4 +1,5 @@
 {
+  "INTR_AFFIX": "Afijo",
   "DIALOGUE_SCHMIDT_ENDING_1": "Ah verdammt!",
   "DIALOGUE_SCHMIDT_ENDING_2_0_0": "¿Así que has venido?",
   "DIALOGUE_SCHMIDT_ENDING_2_0_1": "Intestinos, intestinos. Excelente.",
@@ -82,7 +83,6 @@
   "ITEMNAME_ICECREAM_NIGHT_VISION": "Helado (Visión Nocturna)",
   "ITEMNAME_ICECREAM_STAMINA": "Helado (Resistencia)",
   "ITEMNAME_ICECREAM_TINY": "Helado (Pequeño)",
-  "INTR_AFFIX": "Afijo",
   "INTR_REMOVE_GLUE": "Eliminar pegamento",
   "ITEMNAME_GLUE": "Pegamento",
   "ITEMDESC_GLUE": "Fija los elementos en su lugar",
@@ -487,6 +487,7 @@
   "OPT_INV_Y": "Invertir el eje Y",
   "INTR_FILL_FOOD_BOWL": "Llene el recipiente con %s",
   "ITEMNAME_FOOD_BOWL": "Plato de comida",
+  "ITEMDESC_FOOD_BOWL": "Se utiliza para alimentar a tu mascota",
   "ITEMNAME_WATER_BOWL": "cuenco de agua",
   "ITEMDESC_WATER_BOWL": "Se utiliza para dar de beber a su mascota.",
   "ITEMNAME_PET_BED": "Cama para mascotas",
