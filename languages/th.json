@@ -1,4 +1,5 @@
 {
+  "INTR_AFFIX": "ติด",
   "DIALOGUE_SCHMIDT_ENDING_1": "Ah verdammt!",
   "DIALOGUE_SCHMIDT_ENDING_2_0_0": "คุณมาแล้วสินะ?",
   "DIALOGUE_SCHMIDT_ENDING_2_0_1": "ลำไส้ ลำไส้ เยี่ยมยอด",
@@ -82,7 +83,6 @@
   "ITEMNAME_ICECREAM_NIGHT_VISION": "ไอศกรีม (ภาพกลางคืน)",
   "ITEMNAME_ICECREAM_STAMINA": "ไอศกรีม (พลังงาน)",
   "ITEMNAME_ICECREAM_TINY": "ไอศกรีม (ขนาดเล็ก)",
-  "INTR_AFFIX": "ติด",
   "INTR_REMOVE_GLUE": "ลอกกาวออก",
   "ITEMNAME_GLUE": "กาว",
   "ITEMDESC_GLUE": "ติดตั้งสิ่งของให้เข้าที่",
@@ -487,6 +487,7 @@
   "OPT_INV_Y": "กลับแกนการมอง Y",
   "INTR_FILL_FOOD_BOWL": "เติมชามด้วย %s",
   "ITEMNAME_FOOD_BOWL": "ชามอาหาร",
+  "ITEMDESC_FOOD_BOWL": "ใช้สำหรับให้อาหารสัตว์เลี้ยงของคุณ",
   "ITEMNAME_WATER_BOWL": "ชามน้ำ",
   "ITEMDESC_WATER_BOWL": "ใช้สำหรับรดน้ำสัตว์เลี้ยงของคุณ",
   "ITEMNAME_PET_BED": "ที่นอนสัตว์เลี้ยง",
