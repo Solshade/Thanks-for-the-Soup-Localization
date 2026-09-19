@@ -487,6 +487,7 @@
   "OPT_INV_Y": "Inverser l'axe Y",
   "INTR_FILL_FOOD_BOWL": "Remplir le bol avec %s",
   "ITEMNAME_FOOD_BOWL": "Bol alimentaire",
+  "ITEMDESC_FOOD_BOWL": "Utilisé pour nourrir votre animal de compagnie",
   "ITEMNAME_WATER_BOWL": "Bol d'eau",
   "ITEMDESC_WATER_BOWL": "Utilisé pour abreuver votre animal de compagnie",
   "ITEMNAME_PET_BED": "Lit pour animaux",
