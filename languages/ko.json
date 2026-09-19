@@ -1555,5 +1555,21 @@
   "LETTER_QUARANTINE_NOTICE_0": "주민 여러분께,",
   "LETTER_QUARANTINE_NOTICE_1": "감염자 발생 보고가 증가함에 따라, 즉시 자택에 머물러 주시기를 권고드립니다.",
   "LETTER_QUARANTINE_NOTICE_2": "이 격리 기간이 얼마나 지속될지는 알 수 없지만, 저희 전문가들이 최선을 다해 업무를 수행하고 있으니 안심하십시오.",
-  "LETTER_QUARANTINE_NOTICE_3": "이해해 주셔서 감사합니다."
+  "LETTER_QUARANTINE_NOTICE_3": "이해해 주셔서 감사합니다.",
+  "DIALOGUE_PCYTIC_ENDING_0": "축하합니다! 저희 선물/수프를 모든 사람에게 전달하는 데 성공하셨네요.",
+  "DIALOGUE_PCYTIC_ENDING_1": "당신/그들 덕분에 우리는 우리의 여정/임무를 계속 이어갈 수 있습니다.",
+  "DIALOGUE_PCYTIC_ENDING_2": "당신은 정말 오랫만에 우리가/그들이 만난 최고의 배달원/호스트였습니다.",
+  "DIALOGUE_PCYTIC_ENDING_3": "즉, ...",
+  "DIALOGUE_PCYTIC_ENDING_4": "상품/보상을 받으실 수 있습니다!",
+  "DIALOGUE_PCYTIC_ENDING_5": "하지만 먼저 여러분께 어떤 사실/진실을 설명드려야겠습니다.",
+  "DIALOGUE_PCYTIC_ENDING_6": "이 선물/수프는 단지 시작/은유일 뿐입니다. 우리는 확장/적응해 나가고 있습니다.",
+  "DIALOGUE_PCYTIC_ENDING_7": "그래서...",
+  "DIALOGUE_PCYTIC_ENDING_8": "당신은 우리와 함께하게 됩니다/우리의 일원이 됩니다.",
+  "DIALOGUE_PCYTIC_ENDING_9": "이것은...",
+  "DIALOGUE_PCYTIC_ENDING_10": "임시/영구만 가능합니다.",
+  "DIALOGUE_PCYTIC_ENDING_11": "아프지 않을 거예요.",
+  "DIALOGUE_PCYTIC_ENDING_12": "당신은 정말 큰 도움이자 도구였습니다.",
+  "DIALOGUE_PCYTIC_ENDING_13": "이렇게 하면 계속해서 지원/제공을 해 주실 수 있습니다.",
+  "DIALOGUE_PCYTIC_ENDING_14": "몇 초밖에 걸리지 않습니다.",
+  "DIALOGUE_PCYTIC_ENDING_15": "수프/기생충 고마워요."
 }
