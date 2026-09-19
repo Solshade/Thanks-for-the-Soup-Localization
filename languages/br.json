@@ -1,4 +1,5 @@
 {
+  "INTR_AFFIX": "Afixo",
   "DIALOGUE_SCHMIDT_ENDING_1": "Ah verdammt!",
   "DIALOGUE_SCHMIDT_ENDING_2_0_0": "Então você veio, né?",
   "DIALOGUE_SCHMIDT_ENDING_2_0_1": "Intestino, intestino. Excelente.",
@@ -82,7 +83,6 @@
   "ITEMNAME_ICECREAM_NIGHT_VISION": "Sorvete (Visão Noturna)",
   "ITEMNAME_ICECREAM_STAMINA": "Sorvete (Energia)",
   "ITEMNAME_ICECREAM_TINY": "Sorvete (Pequeno)",
-  "INTR_AFFIX": "Afixo",
   "INTR_REMOVE_GLUE": "Remover cola",
   "ITEMNAME_GLUE": "Cola",
   "ITEMDESC_GLUE": "Fixa os itens no lugar.",
@@ -487,6 +487,7 @@
   "OPT_INV_Y": "Inverter o eixo Y de visualização",
   "INTR_FILL_FOOD_BOWL": "Encha a tigela com %s",
   "ITEMNAME_FOOD_BOWL": "Tigela de comida",
+  "ITEMDESC_FOOD_BOWL": "Usado para alimentar seu animal de estimação.",
   "ITEMNAME_WATER_BOWL": "Tigela de água",
   "ITEMDESC_WATER_BOWL": "Usado para dar água ao seu animal de estimação.",
   "ITEMNAME_PET_BED": "Cama para animais de estimação",
