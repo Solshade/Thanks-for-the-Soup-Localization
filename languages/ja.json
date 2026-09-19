@@ -1,4 +1,5 @@
 {
+  "INTR_AFFIX": "接辞",
   "DIALOGUE_SCHMIDT_ENDING_1": "Ah verdammt!",
   "DIALOGUE_SCHMIDT_ENDING_2_0_0": "来たんですね？",
   "DIALOGUE_SCHMIDT_ENDING_2_0_1": "直感、直感。素晴らしい。",
@@ -82,7 +83,6 @@
   "ITEMNAME_ICECREAM_NIGHT_VISION": "アイスクリーム（暗視機能付き）",
   "ITEMNAME_ICECREAM_STAMINA": "アイスクリーム（スタミナ）",
   "ITEMNAME_ICECREAM_TINY": "アイスクリーム（ミニサイズ）",
-  "INTR_AFFIX": "接辞",
   "INTR_REMOVE_GLUE": "接着剤を取り除く",
   "ITEMNAME_GLUE": "のり",
   "ITEMDESC_GLUE": "アイテムを所定の位置に固定します",
@@ -487,6 +487,7 @@
   "OPT_INV_Y": "Y軸を反転する",
   "INTR_FILL_FOOD_BOWL": "ボウルに%sを入れる",
   "ITEMNAME_FOOD_BOWL": "フードボウル",
+  "ITEMDESC_FOOD_BOWL": "ペットの餌として",
   "ITEMNAME_WATER_BOWL": "水飲みボウル",
   "ITEMDESC_WATER_BOWL": "ペットに水をやるのに使います",
   "ITEMNAME_PET_BED": "ペット用ベッド",
