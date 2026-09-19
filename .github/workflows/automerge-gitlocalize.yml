@@ -1,0 +1,63 @@
+name: Automerge GitLocalize pull requests
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: automerge-gitlocalize
+  cancel-in-progress: false
+
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge open GitLocalize pull requests
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -uo pipefail
+
+          prs=$(gh pr list --repo "$REPO" --state open --author "app/gitlocalize-app" --limit 200 \
+            --json number,isDraft,headRefName,isCrossRepository \
+            --jq 'sort_by(.number) | .[] | [.number, .isDraft, .headRefName, .isCrossRepository] | @tsv')
+
+          if [ -z "$prs" ]; then
+            echo "No open pull requests from gitlocalize-app."
+            exit 0
+          fi
+
+          merged=()
+          skipped=()
+
+          while IFS=$'\t' read -r number draft branch cross; do
+            if [ "$draft" = "true" ]; then
+              echo "#$number is a draft, skipping."
+              skipped+=("#$number (draft)")
+              continue
+            fi
+
+            if gh pr merge "$number" --repo "$REPO" --merge; then
+              echo "#$number merged."
+              merged+=("#$number")
+              if [ "$cross" = "false" ]; then
+                gh api -X DELETE "repos/$REPO/git/refs/heads/$branch" >/dev/null 2>&1 \
+                  && echo "Deleted branch $branch." \
+                  || echo "Could not delete branch $branch."
+              fi
+            else
+              echo "#$number could not be merged, skipping."
+              skipped+=("#$number (not mergeable)")
+            fi
+          done <<< "$prs"
+
+          {
+            echo "## GitLocalize automerge"
+            echo "Merged: ${merged[*]:-none}"
+            echo ""
+            echo "Skipped: ${skipped[*]:-none}"
+          } >> "$GITHUB_STEP_SUMMARY"
