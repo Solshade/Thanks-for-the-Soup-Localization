@@ -1555,5 +1555,21 @@
   "LETTER_QUARANTINE_NOTICE_0": "住民の皆様へ",
   "LETTER_QUARANTINE_NOTICE_1": "感染者の報告件数が増加しているため、直ちに自宅待機をお願いいたします。",
   "LETTER_QUARANTINE_NOTICE_2": "この隔離措置がどれくらい続くかは分かりませんが、ご安心ください。当社の専門スタッフは懸命に業務に取り組んでいます。",
-  "LETTER_QUARANTINE_NOTICE_3": "ご理解いただきありがとうございます。"
+  "LETTER_QUARANTINE_NOTICE_3": "ご理解いただきありがとうございます。",
+  "DIALOGUE_PCYTIC_ENDING_0": "おめでとうございます！私たちの贈り物／スープを皆さんに届けることができましたね。",
+  "DIALOGUE_PCYTIC_ENDING_1": "あなた/彼らのおかげで、私たちは探求/使命を続けることができます。",
+  "DIALOGUE_PCYTIC_ENDING_2": "あなたは、ここしばらくで最高の配達員／ホストでした。",
+  "DIALOGUE_PCYTIC_ENDING_3": "つまり…",
+  "DIALOGUE_PCYTIC_ENDING_4": "報酬/賞品がもらえます！",
+  "DIALOGUE_PCYTIC_ENDING_5": "しかしその前に、あなたに何か／真実を説明しなければなりません。",
+  "DIALOGUE_PCYTIC_ENDING_6": "この贈り物／スープは、あくまで始まり／比喩に過ぎません。私たちは拡大／順応している最中です。",
+  "DIALOGUE_PCYTIC_ENDING_7": "それで...",
+  "DIALOGUE_PCYTIC_ENDING_8": "あなたは私たちに加わる／私たちの一員になるのです。",
+  "DIALOGUE_PCYTIC_ENDING_9": "これは…",
+  "DIALOGUE_PCYTIC_ENDING_10": "一時的／恒久的のみ。",
+  "DIALOGUE_PCYTIC_ENDING_11": "害はありませんよ。",
+  "DIALOGUE_PCYTIC_ENDING_12": "あなたは本当に素晴らしい助け/ツールでした。",
+  "DIALOGUE_PCYTIC_ENDING_13": "そして、こうすることで、あなたは支援や提供を続けることができます。",
+  "DIALOGUE_PCYTIC_ENDING_14": "ほんの数秒で済みます。",
+  "DIALOGUE_PCYTIC_ENDING_15": "スープ／寄生虫をありがとう。"
 }

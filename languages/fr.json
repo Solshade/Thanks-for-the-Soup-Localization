@@ -1555,5 +1555,21 @@
   "LETTER_QUARANTINE_NOTICE_0": "Chers résidents,",
   "LETTER_QUARANTINE_NOTICE_1": "En raison du nombre croissant de cas de personnes infectées, vous êtes priés de rester chez vous dès maintenant.",
   "LETTER_QUARANTINE_NOTICE_2": "Nous ignorons combien de temps durera cette quarantaine, mais soyez assurés que nos professionnels travaillent d'arrache-pied.",
-  "LETTER_QUARANTINE_NOTICE_3": "Merci pour votre compréhension."
+  "LETTER_QUARANTINE_NOTICE_3": "Merci pour votre compréhension.",
+  "DIALOGUE_PCYTIC_ENDING_0": "Félicitations, vous avez réussi à DIFFUSER/LIVRER notre CADEAU/SOUPE à tout le monde.",
+  "DIALOGUE_PCYTIC_ENDING_1": "Grâce à VOUS/EUX, nous pouvons poursuivre notre QUÊTE/MISSION.",
+  "DIALOGUE_PCYTIC_ENDING_2": "Vous avez été notre meilleur LIVREUR/HÔTE depuis très longtemps.",
+  "DIALOGUE_PCYTIC_ENDING_3": "Ce qui signifie...",
+  "DIALOGUE_PCYTIC_ENDING_4": "Vous obtenez un PRIX/UNE RÉCOMPENSE !",
+  "DIALOGUE_PCYTIC_ENDING_5": "Mais d'abord, je dois vous expliquer QUELQUE CHOSE/UNE VÉRITÉ.",
+  "DIALOGUE_PCYTIC_ENDING_6": "Le CADEAU/LA SOUPE n'est qu'un DÉPART/UNE MÉTAPHORE. Nous sommes EN PLEINE EXPANSION/ACCIMATION.",
+  "DIALOGUE_PCYTIC_ENDING_7": "Donc...",
+  "DIALOGUE_PCYTIC_ENDING_8": "Vous nous rejoignez/vous devenez membre de notre équipe.",
+  "DIALOGUE_PCYTIC_ENDING_9": "C'est...",
+  "DIALOGUE_PCYTIC_ENDING_10": "Uniquement TEMPORAIRE/PERMANENT.",
+  "DIALOGUE_PCYTIC_ENDING_11": "Ça ne fera pas de mal.",
+  "DIALOGUE_PCYTIC_ENDING_12": "Vous avez été d'une aide/d'un outil précieux.",
+  "DIALOGUE_PCYTIC_ENDING_13": "Et ainsi, vous pourrez continuer à SOUTENIR/FOURNIR.",
+  "DIALOGUE_PCYTIC_ENDING_14": "Cela ne prendra que quelques secondes.",
+  "DIALOGUE_PCYTIC_ENDING_15": "Merci pour la soupe/parasite."
 }
