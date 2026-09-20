@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "Você tem sido uma grande ajuda/ferramenta.",
   "DIALOGUE_PCYTIC_ENDING_13": "Dessa forma, você poderá continuar a APOIAR/FORNECER.",
   "DIALOGUE_PCYTIC_ENDING_14": "Levará apenas alguns segundos.",
-  "DIALOGUE_PCYTIC_ENDING_15": "Obrigado pela SOPA/PARASIATA."
+  "DIALOGUE_PCYTIC_ENDING_15": "Obrigado pela SOPA/PARASIATA.",
+  "ITEMNAME_SLEEPING_PILLS": "Pílulas para dormir",
+  "ITEMDESC_SLEEPING_PILLS": "Pílulas de ação rápida que te deixam cansado"
 }

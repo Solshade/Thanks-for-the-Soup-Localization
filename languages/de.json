@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "Du warst eine große Hilfe/ein großes Werkzeug.",
   "DIALOGUE_PCYTIC_ENDING_13": "Und auf diese Weise können Sie weiterhin UNTERSTÜTZEN/Bereitstellen.",
   "DIALOGUE_PCYTIC_ENDING_14": "Es dauert nur wenige Sekunden.",
-  "DIALOGUE_PCYTIC_ENDING_15": "Danke für die SUPPE/DEN PARASIT."
+  "DIALOGUE_PCYTIC_ENDING_15": "Danke für die SUPPE/DEN PARASIT.",
+  "ITEMNAME_SLEEPING_PILLS": "Schlafmittel",
+  "ITEMDESC_SLEEPING_PILLS": "Schnell wirkende Pillen, die müde machen"
 }

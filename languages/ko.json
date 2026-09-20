@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "당신은 정말 큰 도움이자 도구였습니다.",
   "DIALOGUE_PCYTIC_ENDING_13": "이렇게 하면 계속해서 지원/제공을 해 주실 수 있습니다.",
   "DIALOGUE_PCYTIC_ENDING_14": "몇 초밖에 걸리지 않습니다.",
-  "DIALOGUE_PCYTIC_ENDING_15": "수프/기생충 고마워요."
+  "DIALOGUE_PCYTIC_ENDING_15": "수프/기생충 고마워요.",
+  "ITEMNAME_SLEEPING_PILLS": "수면제",
+  "ITEMDESC_SLEEPING_PILLS": "효과가 빨리 나타나면서 피곤함을 유발하는 약"
 }

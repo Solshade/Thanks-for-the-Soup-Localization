@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "Du har vært til stor HJELP/VERKTØY.",
   "DIALOGUE_PCYTIC_ENDING_13": "Og på denne måten kan du fortsette å STØTTE/TILBYDE.",
   "DIALOGUE_PCYTIC_ENDING_14": "Det vil bare ta noen få sekunder.",
-  "DIALOGUE_PCYTIC_ENDING_15": "Takk for SUPPEN/PARASITTEN."
+  "DIALOGUE_PCYTIC_ENDING_15": "Takk for SUPPEN/PARASITTEN.",
+  "ITEMNAME_SLEEPING_PILLS": "Sovepiller",
+  "ITEMDESC_SLEEPING_PILLS": "Hurtigvirkende piller som gjør deg sliten"
 }

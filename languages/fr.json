@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "Vous avez été d'une aide/d'un outil précieux.",
   "DIALOGUE_PCYTIC_ENDING_13": "Et ainsi, vous pourrez continuer à SOUTENIR/FOURNIR.",
   "DIALOGUE_PCYTIC_ENDING_14": "Cela ne prendra que quelques secondes.",
-  "DIALOGUE_PCYTIC_ENDING_15": "Merci pour la soupe/parasite."
+  "DIALOGUE_PCYTIC_ENDING_15": "Merci pour la soupe/parasite.",
+  "ITEMNAME_SLEEPING_PILLS": "Pilules pour dormir",
+  "ITEMDESC_SLEEPING_PILLS": "Des pilules à action rapide qui vous fatiguent"
 }

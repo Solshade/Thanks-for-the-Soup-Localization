@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "คุณให้ความช่วยเหลือ/เป็นเครื่องมือที่ดีเยี่ยมมาก",
   "DIALOGUE_PCYTIC_ENDING_13": "และด้วยวิธีนี้ คุณก็สามารถให้การสนับสนุน/ช่วยเหลือต่อไปได้",
   "DIALOGUE_PCYTIC_ENDING_14": "ใช้เวลาเพียงไม่กี่วินาทีเท่านั้น",
-  "DIALOGUE_PCYTIC_ENDING_15": "ขอบคุณสำหรับซุป/ปรสิต"
+  "DIALOGUE_PCYTIC_ENDING_15": "ขอบคุณสำหรับซุป/ปรสิต",
+  "ITEMNAME_SLEEPING_PILLS": "ยานอนหลับ",
+  "ITEMDESC_SLEEPING_PILLS": "ยาออกฤทธิ์เร็วที่ทำให้คุณรู้สึกง่วง"
 }
