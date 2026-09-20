@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "Sei stato un grande AIUTO/STRUMENTO.",
   "DIALOGUE_PCYTIC_ENDING_13": "In questo modo, potrete continuare a SOSTENERE/FORNIRE.",
   "DIALOGUE_PCYTIC_ENDING_14": "Ci vorranno solo pochi secondi.",
-  "DIALOGUE_PCYTIC_ENDING_15": "Grazie per la ZUPPA/PARASSITA."
+  "DIALOGUE_PCYTIC_ENDING_15": "Grazie per la ZUPPA/PARASSITA.",
+  "ITEMNAME_SLEEPING_PILLS": "Pillole per dormire",
+  "ITEMDESC_SLEEPING_PILLS": "Pillole ad azione rapida che provocano sonnolenza"
 }

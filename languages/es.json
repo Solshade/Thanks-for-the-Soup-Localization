@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "Has sido de gran AYUDA/HERRAMIENTA.",
   "DIALOGUE_PCYTIC_ENDING_13": "Y de esta forma, puedes seguir APOYANDO/PROVISIONANDO.",
   "DIALOGUE_PCYTIC_ENDING_14": "Solo tardará unos segundos.",
-  "DIALOGUE_PCYTIC_ENDING_15": "Gracias por la SOPA/PARÁSITO."
+  "DIALOGUE_PCYTIC_ENDING_15": "Gracias por la SOPA/PARÁSITO.",
+  "ITEMNAME_SLEEPING_PILLS": "Píldoras para dormir",
+  "ITEMDESC_SLEEPING_PILLS": "Pastillas de acción rápida que te hacen sentir cansado"
 }

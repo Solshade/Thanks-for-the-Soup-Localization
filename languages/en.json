@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "You have been a great HELP/TOOL.",
   "DIALOGUE_PCYTIC_ENDING_13": "And this way, you can continue to SUPPORT/PROVIDE.",
   "DIALOGUE_PCYTIC_ENDING_14": "It will only take a few seconds.",
-  "DIALOGUE_PCYTIC_ENDING_15": "Thanks for the SOUP/PARASITE."
+  "DIALOGUE_PCYTIC_ENDING_15": "Thanks for the SOUP/PARASITE.",
+  "ITEMNAME_SLEEPING_PILLS": "Sleeping Pills",
+  "ITEMDESC_SLEEPING_PILLS": "Fast working pills that make you tired"
 }

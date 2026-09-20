@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "你真是帮了我大忙/提供了很大的帮助。",
   "DIALOGUE_PCYTIC_ENDING_13": "这样，你就可以继续提供支持/帮助。",
   "DIALOGUE_PCYTIC_ENDING_14": "只需要几秒钟。",
-  "DIALOGUE_PCYTIC_ENDING_15": "谢谢你的汤/寄生虫。"
+  "DIALOGUE_PCYTIC_ENDING_15": "谢谢你的汤/寄生虫。",
+  "ITEMNAME_SLEEPING_PILLS": "安眠药",
+  "ITEMDESC_SLEEPING_PILLS": "快速起效但会让你感到疲倦的药片"
 }

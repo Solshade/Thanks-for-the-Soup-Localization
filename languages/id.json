@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "Anda telah menjadi BANTUAN/ALAT yang sangat hebat.",
   "DIALOGUE_PCYTIC_ENDING_13": "Dengan cara ini, Anda dapat terus MENDUKUNG/MEMBERIKAN.",
   "DIALOGUE_PCYTIC_ENDING_14": "Ini hanya akan memakan waktu beberapa detik.",
-  "DIALOGUE_PCYTIC_ENDING_15": "Terima kasih untuk SUP/PARASITnya."
+  "DIALOGUE_PCYTIC_ENDING_15": "Terima kasih untuk SUP/PARASITnya.",
+  "ITEMNAME_SLEEPING_PILLS": "Pil tidur",
+  "ITEMDESC_SLEEPING_PILLS": "Pil yang bekerja cepat dan membuat Anda lelah."
 }

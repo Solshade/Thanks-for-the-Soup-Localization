@@ -1571,5 +1571,7 @@
   "DIALOGUE_PCYTIC_ENDING_12": "あなたは本当に素晴らしい助け/ツールでした。",
   "DIALOGUE_PCYTIC_ENDING_13": "そして、こうすることで、あなたは支援や提供を続けることができます。",
   "DIALOGUE_PCYTIC_ENDING_14": "ほんの数秒で済みます。",
-  "DIALOGUE_PCYTIC_ENDING_15": "スープ／寄生虫をありがとう。"
+  "DIALOGUE_PCYTIC_ENDING_15": "スープ／寄生虫をありがとう。",
+  "ITEMNAME_SLEEPING_PILLS": "睡眠薬",
+  "ITEMDESC_SLEEPING_PILLS": "すぐに効くが眠気を催す錠剤"
 }
