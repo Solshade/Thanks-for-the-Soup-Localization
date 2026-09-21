@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "Es dauert nur wenige Sekunden.",
   "DIALOGUE_PCYTIC_ENDING_15": "Danke für die SUPPE/DEN PARASIT.",
   "ITEMNAME_SLEEPING_PILLS": "Schlafmittel",
-  "ITEMDESC_SLEEPING_PILLS": "Schnell wirkende Pillen, die müde machen"
+  "ITEMDESC_SLEEPING_PILLS": "Schnell wirkende Pillen, die müde machen",
+  "REMAP_QUICKSCROLL": "Schnellscrollen"
 }

@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "Het duurt maar een paar seconden.",
   "DIALOGUE_PCYTIC_ENDING_15": "Bedankt voor de SOEP/PARASIET.",
   "ITEMNAME_SLEEPING_PILLS": "Slaappillen",
-  "ITEMDESC_SLEEPING_PILLS": "Snelwerkende pillen die je moe maken"
+  "ITEMDESC_SLEEPING_PILLS": "Snelwerkende pillen die je moe maken",
+  "REMAP_QUICKSCROLL": "Snel scrollen"
 }

@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "Solo tardará unos segundos.",
   "DIALOGUE_PCYTIC_ENDING_15": "Gracias por la SOPA/PARÁSITO.",
   "ITEMNAME_SLEEPING_PILLS": "Píldoras para dormir",
-  "ITEMDESC_SLEEPING_PILLS": "Pastillas de acción rápida que te hacen sentir cansado"
+  "ITEMDESC_SLEEPING_PILLS": "Pastillas de acción rápida que te hacen sentir cansado",
+  "REMAP_QUICKSCROLL": "Desplazamiento rápido"
 }

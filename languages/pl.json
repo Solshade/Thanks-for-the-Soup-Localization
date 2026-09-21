@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "Zajmie to tylko kilka sekund.",
   "DIALOGUE_PCYTIC_ENDING_15": "Dziękuję za ZUPĘ/PASOŻYTA.",
   "ITEMNAME_SLEEPING_PILLS": "Tabletki nasenne",
-  "ITEMDESC_SLEEPING_PILLS": "Szybko działające tabletki, które powodują zmęczenie"
+  "ITEMDESC_SLEEPING_PILLS": "Szybko działające tabletki, które powodują zmęczenie",
+  "REMAP_QUICKSCROLL": "Szybkie przewijanie"
 }

@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "ใช้เวลาเพียงไม่กี่วินาทีเท่านั้น",
   "DIALOGUE_PCYTIC_ENDING_15": "ขอบคุณสำหรับซุป/ปรสิต",
   "ITEMNAME_SLEEPING_PILLS": "ยานอนหลับ",
-  "ITEMDESC_SLEEPING_PILLS": "ยาออกฤทธิ์เร็วที่ทำให้คุณรู้สึกง่วง"
+  "ITEMDESC_SLEEPING_PILLS": "ยาออกฤทธิ์เร็วที่ทำให้คุณรู้สึกง่วง",
+  "REMAP_QUICKSCROLL": "เลื่อนเร็ว"
 }

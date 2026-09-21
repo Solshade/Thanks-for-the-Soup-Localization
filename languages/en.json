@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "It will only take a few seconds.",
   "DIALOGUE_PCYTIC_ENDING_15": "Thanks for the SOUP/PARASITE.",
   "ITEMNAME_SLEEPING_PILLS": "Sleeping Pills",
-  "ITEMDESC_SLEEPING_PILLS": "Fast working pills that make you tired"
+  "ITEMDESC_SLEEPING_PILLS": "Fast working pills that make you tired",
+  "REMAP_QUICKSCROLL": "Quickscroll"
 }

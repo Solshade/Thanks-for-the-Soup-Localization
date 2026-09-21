@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "Ci vorranno solo pochi secondi.",
   "DIALOGUE_PCYTIC_ENDING_15": "Grazie per la ZUPPA/PARASSITA.",
   "ITEMNAME_SLEEPING_PILLS": "Pillole per dormire",
-  "ITEMDESC_SLEEPING_PILLS": "Pillole ad azione rapida che provocano sonnolenza"
+  "ITEMDESC_SLEEPING_PILLS": "Pillole ad azione rapida che provocano sonnolenza",
+  "REMAP_QUICKSCROLL": "Scorrimento rapido"
 }

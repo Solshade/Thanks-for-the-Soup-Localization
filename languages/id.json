@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "Ini hanya akan memakan waktu beberapa detik.",
   "DIALOGUE_PCYTIC_ENDING_15": "Terima kasih untuk SUP/PARASITnya.",
   "ITEMNAME_SLEEPING_PILLS": "Pil tidur",
-  "ITEMDESC_SLEEPING_PILLS": "Pil yang bekerja cepat dan membuat Anda lelah."
+  "ITEMDESC_SLEEPING_PILLS": "Pil yang bekerja cepat dan membuat Anda lelah.",
+  "REMAP_QUICKSCROLL": "Gulir cepat"
 }
