@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "Это займет всего несколько секунд.",
   "DIALOGUE_PCYTIC_ENDING_15": "Спасибо за суп/паразитов.",
   "ITEMNAME_SLEEPING_PILLS": "Снотворное",
-  "ITEMDESC_SLEEPING_PILLS": "Быстродействующие таблетки, вызывающие сонливость"
+  "ITEMDESC_SLEEPING_PILLS": "Быстродействующие таблетки, вызывающие сонливость",
+  "REMAP_QUICKSCROLL": "Быстрая прокрутка"
 }

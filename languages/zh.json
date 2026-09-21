@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "只需要几秒钟。",
   "DIALOGUE_PCYTIC_ENDING_15": "谢谢你的汤/寄生虫。",
   "ITEMNAME_SLEEPING_PILLS": "安眠药",
-  "ITEMDESC_SLEEPING_PILLS": "快速起效但会让你感到疲倦的药片"
+  "ITEMDESC_SLEEPING_PILLS": "快速起效但会让你感到疲倦的药片",
+  "REMAP_QUICKSCROLL": "快速滚动"
 }

@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "ほんの数秒で済みます。",
   "DIALOGUE_PCYTIC_ENDING_15": "スープ／寄生虫をありがとう。",
   "ITEMNAME_SLEEPING_PILLS": "睡眠薬",
-  "ITEMDESC_SLEEPING_PILLS": "すぐに効くが眠気を催す錠剤"
+  "ITEMDESC_SLEEPING_PILLS": "すぐに効くが眠気を催す錠剤",
+  "REMAP_QUICKSCROLL": "クイックスクロール"
 }

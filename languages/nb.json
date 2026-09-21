@@ -1573,5 +1573,6 @@
   "DIALOGUE_PCYTIC_ENDING_14": "Det vil bare ta noen få sekunder.",
   "DIALOGUE_PCYTIC_ENDING_15": "Takk for SUPPEN/PARASITTEN.",
   "ITEMNAME_SLEEPING_PILLS": "Sovepiller",
-  "ITEMDESC_SLEEPING_PILLS": "Hurtigvirkende piller som gjør deg sliten"
+  "ITEMDESC_SLEEPING_PILLS": "Hurtigvirkende piller som gjør deg sliten",
+  "REMAP_QUICKSCROLL": "Hurtigrulling"
 }
