@@ -1574,5 +1574,7 @@
   "DIALOGUE_PCYTIC_ENDING_15": "ขอบคุณสำหรับซุป/ปรสิต",
   "ITEMNAME_SLEEPING_PILLS": "ยานอนหลับ",
   "ITEMDESC_SLEEPING_PILLS": "ยาออกฤทธิ์เร็วที่ทำให้คุณรู้สึกง่วง",
-  "REMAP_QUICKSCROLL": "เลื่อนเร็ว"
+  "REMAP_QUICKSCROLL": "เลื่อนเร็ว",
+  "ITEMNAME_CARRIER_CAT_ORANGE": "แมว (สีส้ม)",
+  "ITEMDESC_CARRIER_CAT_ORANGE": "สติไม่สมประกอบเพราะสีส้ม หรือสีส้มเพราะสติไม่สมประกอบ"
 }

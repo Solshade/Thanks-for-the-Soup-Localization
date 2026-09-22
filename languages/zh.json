@@ -1574,5 +1574,7 @@
   "DIALOGUE_PCYTIC_ENDING_15": "谢谢你的汤/寄生虫。",
   "ITEMNAME_SLEEPING_PILLS": "安眠药",
   "ITEMDESC_SLEEPING_PILLS": "快速起效但会让你感到疲倦的药片",
-  "REMAP_QUICKSCROLL": "快速滚动"
+  "REMAP_QUICKSCROLL": "快速滚动",
+  "ITEMNAME_CARRIER_CAT_ORANGE": "猫（橙色）",
+  "ITEMDESC_CARRIER_CAT_ORANGE": "因为橙色而精神错乱，或者因为精神错乱而变成橙色"
 }

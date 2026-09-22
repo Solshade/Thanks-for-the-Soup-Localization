@@ -1574,5 +1574,7 @@
   "DIALOGUE_PCYTIC_ENDING_15": "Thanks for the SOUP/PARASITE.",
   "ITEMNAME_SLEEPING_PILLS": "Sleeping Pills",
   "ITEMDESC_SLEEPING_PILLS": "Fast working pills that make you tired",
-  "REMAP_QUICKSCROLL": "Quickscroll"
+  "REMAP_QUICKSCROLL": "Quickscroll",
+  "ITEMNAME_CARRIER_CAT_ORANGE": "Cat (Orange)",
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Deranged because orange, or orange because deranged"
 }

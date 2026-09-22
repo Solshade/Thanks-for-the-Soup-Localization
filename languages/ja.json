@@ -1574,5 +1574,7 @@
   "DIALOGUE_PCYTIC_ENDING_15": "スープ／寄生虫をありがとう。",
   "ITEMNAME_SLEEPING_PILLS": "睡眠薬",
   "ITEMDESC_SLEEPING_PILLS": "すぐに効くが眠気を催す錠剤",
-  "REMAP_QUICKSCROLL": "クイックスクロール"
+  "REMAP_QUICKSCROLL": "クイックスクロール",
+  "ITEMNAME_CARRIER_CAT_ORANGE": "猫（オレンジ）",
+  "ITEMDESC_CARRIER_CAT_ORANGE": "オレンジ色だから狂っているのか、それとも狂っているからオレンジ色なのか"
 }

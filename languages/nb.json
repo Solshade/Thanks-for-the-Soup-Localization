@@ -1574,5 +1574,7 @@
   "DIALOGUE_PCYTIC_ENDING_15": "Takk for SUPPEN/PARASITTEN.",
   "ITEMNAME_SLEEPING_PILLS": "Sovepiller",
   "ITEMDESC_SLEEPING_PILLS": "Hurtigvirkende piller som gjør deg sliten",
-  "REMAP_QUICKSCROLL": "Hurtigrulling"
+  "REMAP_QUICKSCROLL": "Hurtigrulling",
+  "ITEMNAME_CARRIER_CAT_ORANGE": "Katt (oransje)",
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Vanvittig fordi oransje, eller oransje fordi vanvittig"
 }

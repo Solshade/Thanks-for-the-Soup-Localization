@@ -1574,5 +1574,7 @@
   "DIALOGUE_PCYTIC_ENDING_15": "Спасибо за суп/паразитов.",
   "ITEMNAME_SLEEPING_PILLS": "Снотворное",
   "ITEMDESC_SLEEPING_PILLS": "Быстродействующие таблетки, вызывающие сонливость",
-  "REMAP_QUICKSCROLL": "Быстрая прокрутка"
+  "REMAP_QUICKSCROLL": "Быстрая прокрутка",
+  "ITEMNAME_CARRIER_CAT_ORANGE": "Кот (оранжевый)",
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Психически ненормальный из-за оранжевого цвета, или оранжевый из-за психического расстройства."
 }
