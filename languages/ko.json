@@ -1574,5 +1574,7 @@
   "DIALOGUE_PCYTIC_ENDING_15": "수프/기생충 고마워요.",
   "ITEMNAME_SLEEPING_PILLS": "수면제",
   "ITEMDESC_SLEEPING_PILLS": "효과가 빨리 나타나면서 피곤함을 유발하는 약",
-  "REMAP_QUICKSCROLL": "빠른 스크롤"
+  "REMAP_QUICKSCROLL": "빠른 스크롤",
+  "ITEMNAME_CARRIER_CAT_ORANGE": "고양이 (주황색)",
+  "ITEMDESC_CARRIER_CAT_ORANGE": "주황색이라서 정신 나간 걸까, 아니면 정신 나간 게 주황색일까"
 }

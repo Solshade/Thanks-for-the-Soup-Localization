@@ -1574,5 +1574,7 @@
   "DIALOGUE_PCYTIC_ENDING_15": "Dziękuję za ZUPĘ/PASOŻYTA.",
   "ITEMNAME_SLEEPING_PILLS": "Tabletki nasenne",
   "ITEMDESC_SLEEPING_PILLS": "Szybko działające tabletki, które powodują zmęczenie",
-  "REMAP_QUICKSCROLL": "Szybkie przewijanie"
+  "REMAP_QUICKSCROLL": "Szybkie przewijanie",
+  "ITEMNAME_CARRIER_CAT_ORANGE": "Kot (pomarańczowy)",
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Szalony, bo pomarańczowy, albo pomarańczowy, bo szalony"
 }

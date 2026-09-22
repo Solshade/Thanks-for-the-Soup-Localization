@@ -1574,5 +1574,7 @@
   "DIALOGUE_PCYTIC_ENDING_15": "Grazie per la ZUPPA/PARASSITA.",
   "ITEMNAME_SLEEPING_PILLS": "Pillole per dormire",
   "ITEMDESC_SLEEPING_PILLS": "Pillole ad azione rapida che provocano sonnolenza",
-  "REMAP_QUICKSCROLL": "Scorrimento rapido"
+  "REMAP_QUICKSCROLL": "Scorrimento rapido",
+  "ITEMNAME_CARRIER_CAT_ORANGE": "Gatto (arancione)",
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Squilibrato perché arancione, o arancione perché squilibrato"
 }

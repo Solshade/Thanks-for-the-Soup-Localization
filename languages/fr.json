@@ -1574,5 +1574,7 @@
   "DIALOGUE_PCYTIC_ENDING_15": "Merci pour la soupe/parasite.",
   "ITEMNAME_SLEEPING_PILLS": "Pilules pour dormir",
   "ITEMDESC_SLEEPING_PILLS": "Des pilules à action rapide qui vous fatiguent",
-  "REMAP_QUICKSCROLL": "Défilement rapide"
+  "REMAP_QUICKSCROLL": "Défilement rapide",
+  "ITEMNAME_CARRIER_CAT_ORANGE": "Chat (Orange)",
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Dérangé parce qu'orange, ou orange parce que dérangé"
 }
