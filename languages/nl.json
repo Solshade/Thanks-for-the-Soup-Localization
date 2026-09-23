@@ -1601,5 +1601,6 @@
   "OPT_SUBTITLE_EXTRA_DURATION": "Extra duur",
   "OPT_SUBTITLE_MANUAL_ADVANCE": "Handmatige voortgang",
   "OPT_SUBTITLE_PAUSE_DIALOGUE": "Pauzeer dialoog",
-  "OPT_SUBTITLE_SIZE": "Maat"
+  "OPT_SUBTITLE_SIZE": "Maat",
+  "ARCADE_HOLD": "Uitstel"
 }

@@ -1601,5 +1601,6 @@
   "OPT_SUBTITLE_EXTRA_DURATION": "Дополнительная продолжительность",
   "OPT_SUBTITLE_MANUAL_ADVANCE": "Ручное продвижение",
   "OPT_SUBTITLE_PAUSE_DIALOGUE": "Приостановить диалог",
-  "OPT_SUBTITLE_SIZE": "Размер"
+  "OPT_SUBTITLE_SIZE": "Размер",
+  "ARCADE_HOLD": "Держать"
 }

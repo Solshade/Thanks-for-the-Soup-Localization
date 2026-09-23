@@ -1601,5 +1601,6 @@
   "OPT_SUBTITLE_EXTRA_DURATION": "Ekstra varighet",
   "OPT_SUBTITLE_MANUAL_ADVANCE": "Manuell fremføring",
   "OPT_SUBTITLE_PAUSE_DIALOGUE": "Pause dialog",
-  "OPT_SUBTITLE_SIZE": "Størrelse"
+  "OPT_SUBTITLE_SIZE": "Størrelse",
+  "ARCADE_HOLD": "Holde"
 }

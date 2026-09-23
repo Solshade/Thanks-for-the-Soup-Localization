@@ -1601,5 +1601,6 @@
   "OPT_SUBTITLE_EXTRA_DURATION": "Duración adicional",
   "OPT_SUBTITLE_MANUAL_ADVANCE": "Avance manual",
   "OPT_SUBTITLE_PAUSE_DIALOGUE": "Pausar el diálogo",
-  "OPT_SUBTITLE_SIZE": "Tamaño"
+  "OPT_SUBTITLE_SIZE": "Tamaño",
+  "ARCADE_HOLD": "Sostener"
 }
