@@ -1576,5 +1576,6 @@
   "ITEMDESC_SLEEPING_PILLS": "Pílulas de ação rápida que te deixam cansado",
   "REMAP_QUICKSCROLL": "Rolagem rápida",
   "ITEMNAME_CARRIER_CAT_ORANGE": "Gato (Laranja)",
-  "ITEMDESC_CARRIER_CAT_ORANGE": "Perturbado por ser laranja, ou laranja por ser perturbado."
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Perturbado por ser laranja, ou laranja por ser perturbado.",
+  "NOTE_CONTROLS_6": "Alterne rapidamente para o seu recipiente com %key:quickscroll%."
 }

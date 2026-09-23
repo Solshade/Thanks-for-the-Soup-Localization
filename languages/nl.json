@@ -1576,5 +1576,6 @@
   "ITEMDESC_SLEEPING_PILLS": "Snelwerkende pillen die je moe maken",
   "REMAP_QUICKSCROLL": "Snel scrollen",
   "ITEMNAME_CARRIER_CAT_ORANGE": "Kat (Oranje)",
-  "ITEMDESC_CARRIER_CAT_ORANGE": "Verward omdat het oranje is, of oranje omdat het verward is."
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Verward omdat het oranje is, of oranje omdat het verward is.",
+  "NOTE_CONTROLS_6": "Schakel snel over naar je container met %key:quickscroll%."
 }

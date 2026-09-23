@@ -1576,5 +1576,6 @@
   "ITEMDESC_SLEEPING_PILLS": "Szybko działające tabletki, które powodują zmęczenie",
   "REMAP_QUICKSCROLL": "Szybkie przewijanie",
   "ITEMNAME_CARRIER_CAT_ORANGE": "Kot (pomarańczowy)",
-  "ITEMDESC_CARRIER_CAT_ORANGE": "Szalony, bo pomarańczowy, albo pomarańczowy, bo szalony"
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Szalony, bo pomarańczowy, albo pomarańczowy, bo szalony",
+  "NOTE_CONTROLS_6": "Szybko przełącz się na swój pojemnik za pomocą %key:quickscroll%."
 }
