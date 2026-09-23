@@ -1601,5 +1601,6 @@
   "OPT_SUBTITLE_EXTRA_DURATION": "Durasi tambahan",
   "OPT_SUBTITLE_MANUAL_ADVANCE": "Maju secara manual",
   "OPT_SUBTITLE_PAUSE_DIALOGUE": "Jeda dialog",
-  "OPT_SUBTITLE_SIZE": "Ukuran"
+  "OPT_SUBTITLE_SIZE": "Ukuran",
+  "ARCADE_HOLD": "Memegang"
 }

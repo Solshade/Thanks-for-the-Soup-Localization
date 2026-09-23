@@ -1601,5 +1601,6 @@
   "OPT_SUBTITLE_EXTRA_DURATION": "ระยะเวลาพิเศษ",
   "OPT_SUBTITLE_MANUAL_ADVANCE": "เลื่อนด้วยตนเอง",
   "OPT_SUBTITLE_PAUSE_DIALOGUE": "หยุดการสนทนา",
-  "OPT_SUBTITLE_SIZE": "ขนาด"
+  "OPT_SUBTITLE_SIZE": "ขนาด",
+  "ARCADE_HOLD": "ถือ"
 }
