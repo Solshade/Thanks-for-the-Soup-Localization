@@ -1576,5 +1576,6 @@
   "ITEMDESC_SLEEPING_PILLS": "すぐに効くが眠気を催す錠剤",
   "REMAP_QUICKSCROLL": "クイックスクロール",
   "ITEMNAME_CARRIER_CAT_ORANGE": "猫（オレンジ）",
-  "ITEMDESC_CARRIER_CAT_ORANGE": "オレンジ色だから狂っているのか、それとも狂っているからオレンジ色なのか"
+  "ITEMDESC_CARRIER_CAT_ORANGE": "オレンジ色だから狂っているのか、それとも狂っているからオレンジ色なのか",
+  "NOTE_CONTROLS_6": "%key:quickscroll% で素早くキャニスターに切り替えます。"
 }

@@ -1576,5 +1576,6 @@
   "ITEMDESC_SLEEPING_PILLS": "ยาออกฤทธิ์เร็วที่ทำให้คุณรู้สึกง่วง",
   "REMAP_QUICKSCROLL": "เลื่อนเร็ว",
   "ITEMNAME_CARRIER_CAT_ORANGE": "แมว (สีส้ม)",
-  "ITEMDESC_CARRIER_CAT_ORANGE": "สติไม่สมประกอบเพราะสีส้ม หรือสีส้มเพราะสติไม่สมประกอบ"
+  "ITEMDESC_CARRIER_CAT_ORANGE": "สติไม่สมประกอบเพราะสีส้ม หรือสีส้มเพราะสติไม่สมประกอบ",
+  "NOTE_CONTROLS_6": "สลับไปยังกระป๋องของคุณอย่างรวดเร็วด้วย %key:quickscroll%"
 }

@@ -1576,5 +1576,6 @@
   "ITEMDESC_SLEEPING_PILLS": "Schnell wirkende Pillen, die müde machen",
   "REMAP_QUICKSCROLL": "Schnellscrollen",
   "ITEMNAME_CARRIER_CAT_ORANGE": "Katze (Orange)",
-  "ITEMDESC_CARRIER_CAT_ORANGE": "Verrückt, weil orange, oder orange, weil verrückt"
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Verrückt, weil orange, oder orange, weil verrückt",
+  "NOTE_CONTROLS_6": "Wechseln Sie schnell zu Ihrem Kanister mit %key:quickscroll%."
 }

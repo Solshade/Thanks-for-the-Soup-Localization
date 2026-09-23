@@ -1576,5 +1576,6 @@
   "ITEMDESC_SLEEPING_PILLS": "Des pilules à action rapide qui vous fatiguent",
   "REMAP_QUICKSCROLL": "Défilement rapide",
   "ITEMNAME_CARRIER_CAT_ORANGE": "Chat (Orange)",
-  "ITEMDESC_CARRIER_CAT_ORANGE": "Dérangé parce qu'orange, ou orange parce que dérangé"
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Dérangé parce qu'orange, ou orange parce que dérangé",
+  "NOTE_CONTROLS_6": "Passez rapidement à votre cartouche avec %key:quickscroll%."
 }

@@ -1576,5 +1576,6 @@
   "ITEMDESC_SLEEPING_PILLS": "Hurtigvirkende piller som gjør deg sliten",
   "REMAP_QUICKSCROLL": "Hurtigrulling",
   "ITEMNAME_CARRIER_CAT_ORANGE": "Katt (oransje)",
-  "ITEMDESC_CARRIER_CAT_ORANGE": "Vanvittig fordi oransje, eller oransje fordi vanvittig"
+  "ITEMDESC_CARRIER_CAT_ORANGE": "Vanvittig fordi oransje, eller oransje fordi vanvittig",
+  "NOTE_CONTROLS_6": "Bytt raskt til beholderen din med %key:quickscroll%."
 }
